@@ -10,6 +10,6 @@ git commit -m static-web
 
 git push
 
-heroku apps:create heroku-static-web-page
+heroku apps:create app-name
 
 git push heroku master
