@@ -1,0 +1,19 @@
+{
+  "name": "tdmichael-bio",
+  "version": "0.0.0",
+  "description": "tdmichael-bio\r ====================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TdMichael/bio-cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TdMichael/bio-cv/issues"
+  },
+  "homepage": "https://github.com/TdMichael/bio-cv"
+}
