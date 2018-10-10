@@ -6,11 +6,11 @@ body {
 }
 
 .container-fluid {
-  min-height: 90vh;
+  min-height: 89vh;
 }
 
-.cont {
-  width: 75%;
+.row {
+  width: 90%;
   margin:0 auto;
   background-color: rgba(0,0,0,0.5);
 }
