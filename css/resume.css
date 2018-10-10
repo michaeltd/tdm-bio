@@ -1,0 +1,39 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1484856299450-fb14549bca50?dpr=1&auto=format&fit=crop&w=1500&h=872&q=80&cs=tinysrgb&crop=");
+}
+
+.container-fluid {
+  min-height: 90vh;
+}
+
+.cont {
+  width: 75%;
+  margin:0 auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+h1{
+  background-color: rgba(0,0,0,0.5);
+  color:LightGrey;
+}
+
+.col-xs-6 {
+  background-color: white;
+}
+
+a:hover {
+  color: black;
+}
+
+footer {
+  background-color: rgba(0,0,0,0.5);
+  min-height: 9vh;
+  padding: 1%;
+  text-align: center;
+  font-size: 2em;
+  color:LightGrey;
+  font-family: cursive, sans-serif;
+}
