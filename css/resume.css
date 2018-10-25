@@ -17,7 +17,11 @@ body {
 
 h1{
   background-color: rgba(0,0,0,0.5);
-  color:LightGrey;
+  color: LightGrey;
+}
+
+p{
+    color: black;
 }
 
 .col-xs-6 {
