@@ -12,6 +12,9 @@ body {
 .row {
   width: 70%;
   margin:0 auto;
+}
+
+.row, .col-xs-6, .list-group-item {
   background-color: rgba(0,0,0,0.5);
 }
 
@@ -24,9 +27,9 @@ p{
   color: white;
 }
 
-.col-xs-6 {
+/* .col-xs-6 {
   background-color: white;
-}
+} */
 
 a:hover {
   color: black;
