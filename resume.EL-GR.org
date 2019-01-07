@@ -15,15 +15,19 @@ _Στρατιωτικές υποχρεώσεις:_ Εκπληρωμένες
 Μεθοδολογία και Πρακτικές Ανάπτυξης, Συντήρησης και Διαχείρισης Συστημάτων Πληροφορικής.
 Oracle PL-SQL, Oracle Developer, Data Base Administration.
 
-2006 - 2009 [[https://www.eap.gr/el/][Ε.Α.Π.]]
+2006 - 2009 [[https://www.eap.gr/el/][Ε.Α.Π.]]:
+
 Σχολή Θετικών Επιστημών & Τεχνολογίας, Τμήμα Πληροφορικής
 
 2017 [[https://www.sololearn.com/Profile/4692870/][Solo Learn]]:
-[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]].
+[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][
+Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]].
 
 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
-[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Διεπαφές Ιστού]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Παρουσίαση Δεδομένων]]
-[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Αλγόριθμοι]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Βιβλιοθήκες Διεπαφών]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Παρουσίαση Δεδομένων]].
+[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][
+Διεπαφές Ιστού]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Παρουσίαση Δεδομένων]]
+[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][
+Αλγόριθμοι]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Βιβλιοθήκες Διεπαφών]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Παρουσίαση Δεδομένων]].
 
 ** Επαγγελματική Προϋπηρεσία
 1991 - 1992 CIGNA ΕΛΛΑΣ ΑΑΕ
