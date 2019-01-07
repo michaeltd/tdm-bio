@@ -8,7 +8,6 @@ _Marital Status:_ Single
 _Military Obligations:_ Fulfilled
 
 ** Education
-#+BEGIN_VERSE
 1988 - 1991 6th T.P.L. of Athens
 Degree on Engineering of Industrial Installations and Production
 
@@ -25,10 +24,8 @@ School of Applied Science and Technology, Information Technology Department
 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
 [[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Legacy Front End]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Legacy Data Visualization]].
 [[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Algorithms & Data Structures]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Front end Libraries]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Data Visualization]].
-#+END_VERSE
 
 ** Professional Background
-#+BEGIN_VERSE
 1991 - 1992 CIGNA HELLAS SA
 Accounting - Back office
 
@@ -43,7 +40,6 @@ Accounting dpt.
 
 2011 - Present
 Freelancer
-#+END_VERSE
 
 ** Foreign Languages
 English, Some German

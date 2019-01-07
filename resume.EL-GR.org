@@ -8,7 +8,6 @@ _Οικογενειακή κατάσταση:_ Άγαμος
 _Στρατιωτικές υποχρεώσεις:_ Εκπληρωμένες
 
 ** Εκπαίδευση
-#+BEGIN_VERSE
 1988 - 1991 6ο ΤΕΛ Αθηνών
 Πτυχίο Μηχανολόγου Βιομηχανικών Εγκαταστάσεων & Παραγωγής
 
@@ -25,10 +24,8 @@ Oracle PL-SQL, Oracle Developer, Data Base Administration.
 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
 [[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Διεπαφές Ιστού]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Παρουσίαση Δεδομένων]]
 [[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Αλγόριθμοι]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Βιβλιοθήκες Διεπαφών]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Παρουσίαση Δεδομένων]].
-#+END_VERSE
 
 ** Επαγγελματική Προϋπηρεσία
-#+BEGIN_VERSE
 1991 - 1992 CIGNA ΕΛΛΑΣ ΑΑΕ
 Λογιστήριο - Διεκπεραίωση
 
@@ -43,7 +40,6 @@ Oracle PL-SQL, Oracle Developer, Data Base Administration.
 
 2011 - Παρόν
 Ελεύθερος Επαγγελματίας
-#+END_VERSE
 
 ** Ξένες Γλώσσες
 Αγγλικά, λίγα Γερμανικά
