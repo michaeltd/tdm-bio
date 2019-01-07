@@ -1,6 +1,4 @@
-#+BEGIN_CENTER
-*Michael Tsouchlarakis*
-#+END_CENTER
+** *Michael Tsouchlarakis*
 
 _Location:_ Athens, Greece
 _e-mail:_ tsouchlarakis@gmail.com
@@ -8,41 +6,37 @@ _Marital Status:_ Single
 _Military Obligations:_ Fulfilled
 
 ** Education
-1988 - 1991 6th T.P.L. of Athens
+*** 1988 - 1991 6th T.P.L. of Athens
 Degree on Engineering of Industrial Installations and Production
 
-2002 Constantinou Computer Studies
+*** 2002 Constantinou Computer Studies
 Methodology, Practice, Development, Maintenance and Administration of Information Systems.
 Oracle PL-SQL, Oracle Developer, Data Base Administration.
 
-2006 - 2009 [[https://www.eap.gr/en/][H.O.U.]]:
-
+*** 2006 - 2009 [[https://www.eap.gr/en/][H.O.U.]]:
 School of Applied Science and Technology, Information Technology Department
 
-2017 [[https://www.sololearn.com/Profile/4692870][Solo Learn]]:
-[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][
-Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]].
+*** 2017 [[https://www.sololearn.com/Profile/4692870][Solo Learn]]:
+[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]].
 
-2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
-[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][
-Legacy Front End]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Legacy Data Visualization]].
-[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][
-Algorithms & Data Structures]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Front end Libraries]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Data Visualization]].
+*** 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
+[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Legacy Front End]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Legacy Data Visualization]].
+[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Algorithms & Data Structures]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Front end Libraries]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Data Visualization]].
 
 ** Professional Background
-1991 - 1992 CIGNA HELLAS SA
+*** 1991 - 1992 CIGNA HELLAS SA
 Accounting - Back office
 
-1996 - 1997 Iconotypo SA
+*** 1996 - 1997 Iconotypo SA
 Desktop publishing (DTP)
 
-1997 - 2006 Commercial Union Life SA
+*** 1997 - 2006 Commercial Union Life SA
 Mutual Funds dpt.
 
-2006 - 2009 ASPIS SA
+*** 2006 - 2009 ASPIS SA
 Accounting dpt.
 
-2011 - Present
+*** 2011 - Present
 Freelancer
 
 ** Foreign Languages
