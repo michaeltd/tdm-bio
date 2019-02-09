@@ -66,6 +66,6 @@
 
   Sports, Music
 
-#+BEGIN_export html
-<p align='center' class='validation'><a href='http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html'>Validate</a></p>
-#+END_export
+#+BEGIN_EXPORT html
+<p class='validation'><a href='http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html'>Validate</a></p>
+#+END_EXPORT
