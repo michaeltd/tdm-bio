@@ -1,34 +1,67 @@
-#+TITLE michaeltd cv en
-** *Michael Tsouchlarakis*
-_Location_: Athens, Greece
-_e-mail_: tsouchlarakis@gmail.com
-_Marital Status_: Single
-_Military Obligations_: Fulfilled
-** Education
-*** 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
-[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Legacy Front End]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Legacy Data Visualization]]
-[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Algorithms & Data Structures]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Front end Libraries]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Data Visualization]]
-*** 2017 [[https://www.sololearn.com/Profile/4692870][Solo Learn]]:
-[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]]
-*** 2006 - 2009 [[https://www.eap.gr/en/][H.O.U.]]:
-School of Applied Science and Technology, Information Technology Department
-*** 2002 Constantinou Computer Studies
-Methodology, Practice, Development, Maintenance and Administration of Information Systems
-Oracle PL-SQL, Oracle Developer, Data Base Administration
-*** 1988 - 1991 6th T.P.L. of Athens
-Degree on Engineering of Industrial Installations and Production
-** Professional Background
-*** 2011 - Present
-Freelancer
-*** 2006 - 2009 ASPIS SA
-Accounting dpt.
-*** 1997 - 2006 Commercial Union Life SA
-Mutual Funds dpt.
-*** 1996 - 1997 Iconotypo SA
-Desktop publishing (DTP)
-*** 1991 - 1992 CIGNA HELLAS SA
-Accounting - Back office
-** Foreign Languages
-English, Some German
-** Other Interests
-Sports, Music
+#+TITLE: Michael Tsouchlarakis
+#+OPTIONS: toc:nil
+#+STYLE: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+#+LINK_UP: ../
+#+LINK_HOME: ../
+
+|----------------+--------------------------------+----------------+----------------------|
+| Location       | e-mail                         | Marital Status | Military Obligations |
+|----------------+--------------------------------+----------------+----------------------|
+| Athens, Greece | tsouchlarakis at gmail dot com | Single         | Fulfilled            |
+|----------------+--------------------------------+----------------+----------------------|
+
+- *Education*
+
+  - _2018-2019_ [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]
+
+    [[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Legacy Front End]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Legacy Data Visualization]]
+
+    [[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Algorithms & Data Structure]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Front end Libraries]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Data Visualization]]
+
+  - _2017_ [[https://www.sololearn.com/Profile/4692870][Solo Learn]]
+
+    [[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]]
+
+  - _2006-2009_ [[https://www.eap.gr/en/][H.O.U.]]
+
+    School of Applied Science and Technology, Information Technology Department
+
+  - _2002_ Constantinou Computer Studies
+
+    Methodology, Practice, Development, Maintenance and Administration of Information Systems
+
+    Oracle PL-SQL, Oracle Developer, Data Base Administration
+
+  - _1988-1991_ 6th T.P.L. of Athens
+
+    Degree on Engineering of Industrial Installations and Production
+
+- *Professional Background*
+
+  - _2011-Present_
+
+    Freelancer
+
+  - _2006-2009_ ASPIS SA
+
+    Accounting dpt.
+
+  - _1997-2006_ Commercial Union Life SA
+
+    Mutual Funds dpt.
+
+  - _1996-1997_ Iconotypo SA
+
+    Desktop publishing (DTP)
+
+  - _1991-1992_ CIGNA HELLAS SA
+
+    Accounting - Back office
+
+- *Foreign Languages*
+
+  English, Some German
+
+- *Other Interests*
+
+  Sports, Music

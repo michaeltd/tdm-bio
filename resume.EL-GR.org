@@ -1,36 +1,67 @@
-#+TITLE michaeltd cv gr
-** *Μιχάλης Τσουχλαράκης*
-_Διαμονή_: Αθήνα, Ελλάδα
-_e-mail_: tsouchlarakis@gmail.com
-_Οικογενειακή κατάσταση_: Άγαμος
-_Στρατιωτικές υποχρεώσεις_: Εκπληρωμένες
-** Εκπαίδευση
-*** 2018/2019 [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]:
-[[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Διεπαφές Ιστού]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Παρουσίαση Δεδομένων]]
-[[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Αλγόριθμοι]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Βιβλιοθήκες Διεπαφών]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Παρουσίαση Δεδομένων]]
-*** 2017 [[https://www.sololearn.com/Profile/4692870/][Solo Learn]]:
-[[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]]
-*** 2006 - 2009 [[https://www.eap.gr/el/][Ε.Α.Π.]]:
-Σχολή Θετικών Επιστημών & Τεχνολογίας, Τμήμα Πληροφορικής.
-*** 2002 Constantinou Computer Studies
-Μεθοδολογία και Πρακτικές Ανάπτυξης, Συντήρησης και Διαχείρισης Συστημάτων Πληροφορικής
-Oracle PL-SQL, Oracle Developer, Data Base Administration
-*** 1988 - 1991 6ο ΤΕΛ Αθηνών
-Πτυχίο Μηχανολόγου Βιομηχανικών Εγκαταστάσεων & Παραγωγής
-** Επαγγελματική Προϋπηρεσία
-*** 2011 - Παρόν
-Ελεύθερος Επαγγελματίας
-*** 2006 - 2009 ΑΣΠΙΣ ΑΕΓΑ
-Λογιστήριο
-*** 1997 - 2006 Commercial Union Life ΑΕΑΖ
-Τμήμα Αμοιβαίων Κεφαλαίων
-*** 1996 - 1997 Εικονότυπο ΑΕ
-Σελιδοποίηση - DTP
-*** 1991 - 1992 CIGNA ΕΛΛΑΣ ΑΑΕ
-Λογιστήριο - Διεκπεραίωση
-** Ξένες Γλώσσες
-Αγγλικά, λίγα Γερμανικά
-** Ενδιαφέροντα
-Αθλητισμός, Μουσική
+#+TITLE: Μιχάλης Τσουχλαράκης
+#+OPTIONS: toc:nil
+#+STYLE: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+#+LINK_UP: ../
+#+LINK_HOME: ../
 
-http://dboyerconsulting.com/differences-between-a-resume-a-bio-and-curricula-vitae/
+|---------------+--------------------------------+------------------------+--------------------------|
+| Διαμονή       | e-mail                         | Οικογενειακή κατάσταση | Στρατιωτικές υποχρεώσεις |
+|---------------+--------------------------------+------------------------+--------------------------|
+| Αθήνα, Ελλάδα | tsouchlarakis at gmail dot com | Άγαμος                 | Εκπληρωμένες             |
+|---------------+--------------------------------+------------------------+--------------------------|
+
+- *Εκπαίδευση*
+
+  - _2018-2019_ [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]
+
+    [[https://www.freecodecamp.org/certification/michaeltd/legacy-front-end][Διεπαφές Ιστού]], [[https://www.freecodecamp.org/certification/michaeltd/legacy-data-visualization][Παρουσίαση Δεδομένων]]
+
+    [[https://www.freecodecamp.org/certification/michaeltd/javascript-algorithms-and-data-structures][Αλγόριθμοι]], [[https://www.freecodecamp.org/certification/michaeltd/front-end-libraries][Βιβλιοθήκες Διεπαφών]], [[https://www.freecodecamp.org/certification/michaeltd/data-visualization][Παρουσίαση Δεδομένων]]
+
+  - _2017_ [[https://www.sololearn.com/Profile/4692870/][Solo Learn]]
+
+    [[https://www.sololearn.com/Certificate/1051-4692870/pdf/][Cpp]], [[https://www.sololearn.com/Certificate/1068-4692870/pdf/][Java]], [[https://www.sololearn.com/Certificate/1073-4692870/pdf/][Python3]]
+
+  - _2006-2009_ [[https://www.eap.gr/el/][Ε.Α.Π.]]
+
+    Σχολή Θετικών Επιστημών & Τεχνολογίας, Τμήμα Πληροφορικής.
+
+  - _2002_ Constantinou Computer Studies
+
+    Μεθοδολογία και Πρακτικές Ανάπτυξης, Συντήρησης και Διαχείρισης Συστημάτων Πληροφορικής
+
+    Oracle PL-SQL, Oracle Developer, Data Base Administration
+
+  - _1988-1991_ 6ο ΤΕΛ Αθηνών
+
+    Πτυχίο Μηχανολόγου Βιομηχανικών Εγκαταστάσεων & Παραγωγής
+
+- *Επαγγελματική Προϋπηρεσία*
+
+  - _2011-Παρόν_
+
+    Ελεύθερος Επαγγελματίας
+
+  - _2006-2009_ ΑΣΠΙΣ ΑΕΓΑ
+
+    Λογιστήριο
+
+  - _1997-2006_ Commercial Union Life ΑΕΑΖ
+
+    Τμήμα Αμοιβαίων Κεφαλαίων
+
+  - _1996-1997_ Εικονότυπο ΑΕ
+
+    Σελιδοποίηση - DTP
+
+  - _1991-1992_ CIGNA ΕΛΛΑΣ ΑΑΕ
+
+    Λογιστήριο - Διεκπεραίωση
+
+- *Ξένες Γλώσσες*
+
+  Αγγλικά, λίγα Γερμανικά
+
+- *Ενδιαφέροντα*
+
+  Αθλητισμός, Μουσική
