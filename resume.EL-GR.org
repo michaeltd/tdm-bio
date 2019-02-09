@@ -1,14 +1,14 @@
 #+TITLE: Μιχάλης Τσουχλαράκης
 #+OPTIONS: toc:nil html-postamble:nil
-#+STYLE: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-#+LINK_UP: ../
-#+LINK_HOME: ../
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+-----
 
 #+BEGIN_CENTER
 [[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
 #+END_CENTER
+
+-----
 
 - *Εκπαίδευση*
 
@@ -36,6 +36,8 @@
 
     Πτυχίο Μηχανολόγου Βιομηχανικών Εγκαταστάσεων & Παραγωγής
 
+-----
+
 - *Επαγγελματική Προϋπηρεσία*
 
   - _2011-Παρόν_
@@ -58,13 +60,19 @@
 
     Λογιστήριο - Διεκπεραίωση
 
+-----
+
 - *Ξένες Γλώσσες*
 
   Αγγλικά, λίγα Γερμανικά
 
+-----
+
 - *Ενδιαφέροντα*
 
   Αθλητισμός, Μουσική
+
+-----
 
 #+BEGIN_CENTER
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EL-GR.html][Validate]]

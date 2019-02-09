@@ -1,14 +1,14 @@
 #+TITLE: Michael Tsouchlarakis
 #+OPTIONS: toc:nil html-postamble:nil
-#+STYLE: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-#+LINK_UP: ../
-#+LINK_HOME: ../
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+-----
 
 #+BEGIN_CENTER
 [[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
 #+END_CENTER
+
+-----
 
 - *Education*
 
@@ -36,6 +36,8 @@
 
     Degree on Engineering of Industrial Installations and Production
 
+-----
+
 - *Professional Background*
 
   - _2011-Present_
@@ -58,13 +60,19 @@
 
     Accounting - Back office
 
+-----
+
 - *Foreign Languages*
 
   English, Some German
 
+-----
+
 - *Other Interests*
 
   Sports, Music
+
+-----
 
 #+BEGIN_CENTER
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][Validate]]
