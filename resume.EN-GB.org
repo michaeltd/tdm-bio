@@ -6,6 +6,10 @@
 #+LINK_UP: ../
 #+LINK_HOME: ../
 
+#+BEGIN_CENTER
+[[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
+#+END_CENTER
+
 - *Education*
 
   - _2018-2019_ [[https://www.freecodecamp.org/michaeltd][freeCodeCamp]]
@@ -62,8 +66,6 @@
 
   Sports, Music
 
-[[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
-
 #+BEGIN_export html
-<p class="validation"><a href="http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html">Validate</a></p>
+<p align='center' class='validation'><a href='http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html'>Validate</a></p>
 #+END_export
