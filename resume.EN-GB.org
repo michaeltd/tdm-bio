@@ -1,14 +1,10 @@
 #+TITLE: Michael Tsouchlarakis
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil html-postamble:nil
 #+STYLE: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
 #+LINK_UP: ../
 #+LINK_HOME: ../
-
-|----------------+--------------------------------+----------------+----------------------|
-| Location       | e-mail                         | Marital Status | Military Obligations |
-|----------------+--------------------------------+----------------+----------------------|
-| Athens, Greece | tsouchlarakis at gmail dot com | Single         | Fulfilled            |
-|----------------+--------------------------------+----------------+----------------------|
 
 - *Education*
 
@@ -65,3 +61,9 @@
 - *Other Interests*
 
   Sports, Music
+
+[[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
+
+#+BEGIN_export html
+<p class="validation"><a href="http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html">Validate</a></p>
+#+END_export
