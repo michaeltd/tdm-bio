@@ -5,7 +5,7 @@
   // how close next node must be to activate connection (in px)
   // shorter distance == better connection (line width)
   SENSITIVITY = 100;
-  // note that siblings limit is not 'accurate' as the node can actually have more connections than this value that's because the node accepts sibling nodes with no regard to their current connections this is acceptable because potential fix would not result in significant visual difference 
+  // note that siblings limit is not 'accurate' as the node can actually have more connections than this value that's because the node accepts sibling nodes with no regard to their current connections this is acceptable because potential fix would not result in significant visual difference
   // more siblings == bigger node
   SIBLINGS_LIMIT = 10;
   // default node margin
@@ -15,7 +15,8 @@
   // avoid nodes spreading
   ANCHOR_LENGTH = 20;
   // highlight radius
-  MOUSE_RADIUS = 200;
+  //MOUSE_RADIUS = 200;
+  MOUSE_RADIUS = 1000;
 
   circ = 2 * Math.PI;
   nodes = [];
@@ -45,7 +46,7 @@
   }
 
   Node.prototype.drawNode = function() {
-    var color = "rgba(255, 0, 0, " + this.brightness + ")";
+    var color = "rgba(0, 0, 0, " + this.brightness + ")";
     ctx.beginPath();
     ctx.arc(this.x, this.y, 2 * this.radius + 2 * this.siblings.length / SIBLINGS_LIMIT, 0, circ);
     ctx.fillStyle = color;
@@ -54,7 +55,7 @@
 
   Node.prototype.drawConnections = function() {
     for (var i = 0; i < this.siblings.length; i++) {
-      var color = "rgba(255, 0, 0, " + this.brightness + ")";
+      var color = "rgba(0, 0, 0, " + this.brightness + ")";
       ctx.beginPath();
       ctx.moveTo(this.x, this.y);
       ctx.lineTo(this.siblings[i].x, this.siblings[i].y);
