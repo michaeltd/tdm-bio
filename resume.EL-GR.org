@@ -5,7 +5,7 @@
 -----
 
 #+BEGIN_CENTER
-[[https://twitter.com/tsouchlarakismd][twitter]] | [[https://npmjs.com/~michaeltd][npmjs]] | [[https://github.com/michaeltd][github]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://michael.heliohost.org/][web]] | card: npx michaeltd
+[[https://twitter.com/tsouchlarakismd][twitter]] | [[https://github.com/michaeltd][github]] | [[https://michael.heliohost.org/][web]] | [[https://linkedin.com/in/michaeltd][linkedin]] | [[https://npmjs.com/~michaeltd][npmjs]] | card: npx michaeltd
 #+END_CENTER
 
 -----
