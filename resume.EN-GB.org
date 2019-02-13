@@ -1,6 +1,6 @@
 #+TITLE: Michael Tsouchlarakis
 #+OPTIONS: toc:nil html-postamble:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/resume.org.css" />
 
 -----
 
