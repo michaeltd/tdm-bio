@@ -9,7 +9,7 @@
   // more siblings == bigger node
   SIBLINGS_LIMIT = 10;
   // default node margin
-  DENSITY = 50;
+  DENSITY = 100;
   // total number of nodes used (incremented after creation)
   NODES_QTY = 0;
   // avoid nodes spreading
@@ -28,6 +28,7 @@
     y: canvas.height / 2
   };
   ctx = canvas.getContext('2d');
+
   if (!ctx) {
     alert("Ooops! Your browser does not support canvas :'(");
   }
@@ -142,6 +143,7 @@
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     findSiblings();
     var i, node, distance;
+
     for (i = 0; i < NODES_QTY; i++) {
       node = nodes[i];
       distance = calcDistance({
@@ -154,6 +156,7 @@
         node.brightness = 0;
       }
     }
+
     for (i = 0; i < NODES_QTY; i++) {
       node = nodes[i];
       if (node.brightness) {
