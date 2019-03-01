@@ -1,7 +1,7 @@
 #+TITLE: Michael Tsouchlarakis
 #+OPTIONS: toc:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
-#+HTML_HEAD_EXTRA: <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'><script defer src='https://use.fontawesome.com/releases/v5.6.3/js/all.js' integrity='sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1' crossorigin='anonymous'></script>
+#+HTML_HEAD_EXTRA: <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'/><script defer src='https://use.fontawesome.com/releases/v5.6.3/js/all.js' type='text/javascript'></script>
 #+MACRO: imglnk @@html:<a href="$1"><img src="$2"></a>@@
 
 -----
@@ -12,7 +12,7 @@
 #+HTML:   <a href='https://michael.heliohost.org/'><i class='fas fa-globe fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://www.linkedin.com/in/michaeltd/'><i class='fab fa-linkedin fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://npmjs.com/~michaeltd'><i class='fab fa-npm fa-fw fa-1x'></i></a>
-#+HTML:   <br />card: npx michaeltd
+#+HTML:   <br /> <b> ~ $ </b> npx michaeltd
 #+HTML: </p>
 
 -----
@@ -87,15 +87,9 @@
 #+HTML: </p>
 
 #+BEGIN_COMMENT
-
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][file:http://www.w3.org/Icons/valid-xhtml10]]
-
 #+BEGIN_CENTER
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EL-GR.html][Validate]]
-#+END_CENTER
-
-#+BEGIN_CENTER
 {{{imglnk(http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html,http://www.w3.org/Icons/valid-xhtml10)}}}
 #+END_CENTER
-
 #+END_COMMENT

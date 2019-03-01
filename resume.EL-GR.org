@@ -12,7 +12,7 @@
 #+HTML:   <a href='https://michael.heliohost.org/'><i class='fas fa-globe fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://www.linkedin.com/in/michaeltd/'><i class='fab fa-linkedin fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://npmjs.com/~michaeltd'><i class='fab fa-npm fa-fw fa-1x'></i></a>
-#+HTML:   <br />card: npx michaeltd
+#+HTML:   <br /> <b>~ $</b> npx michaeltd
 #+HTML: </p>
 
 -----
@@ -87,15 +87,9 @@
 #+HTML: </p>
 
 #+BEGIN_COMMENT
-
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][file:http://www.w3.org/Icons/valid-xhtml10]]
-
 #+BEGIN_CENTER
 [[http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EL-GR.html][Validate]]
-#+END_CENTER
-
-#+BEGIN_CENTER
 {{{imglnk(http://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html,http://www.w3.org/Icons/valid-xhtml10)}}}
 #+END_CENTER
-
 #+END_COMMENT
