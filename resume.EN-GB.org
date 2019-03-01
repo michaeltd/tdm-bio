@@ -6,7 +6,8 @@
 
 -----
 
-#+HTML: <p align='center'>
+#+BEGIN_CENTER
+#+HTML: <p>
 #+HTML:   <a href='https://twitter.com/tsouchlarakismd'><i class='fab fa-twitter fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://github.com/michaeltd'><i class='fab fa-github fa-fw fa-1x'></i></a>
 #+HTML:   <a href='https://michael.heliohost.org/'><i class='fas fa-globe fa-fw fa-1x'></i></a>
@@ -14,6 +15,7 @@
 #+HTML:   <a href='https://npmjs.com/~michaeltd'><i class='fab fa-npm fa-fw fa-1x'></i></a>
 #+HTML:   <br /> <b> ~ $ </b> npx michaeltd
 #+HTML: </p>
+#+END_CENTER
 
 -----
 
