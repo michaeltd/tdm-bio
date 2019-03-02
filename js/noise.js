@@ -81,9 +81,10 @@
 				let x = px;
 				let y = Math.random() * canvas.height;
 				ctx.beginPath();
-      	ctx.moveTo(x, y);
+      	                        ctx.moveTo(x, y);
 				const n = perlin.noise(x * zoom, y * zoom);
-				ctx.strokeStyle = `hsl(${-210 + n * 600}, 100%, ${900 * n * n * n}%)`;
+				//ctx.strokeStyle = `hsl(${-210 + n * 600}, 100%, ${900 * n * n * n}%)`;
+			        ctx.strokeStyle = `hsl(${-210 + n * 200}, 100%, ${900 * n * n * n}%)`;
 				for (let m = 0; m < 600 && y >= 0 && y <= canvas.height; m++) {
 					const n = perlin.noise(x * zoom, y * zoom);
 					x += Math.cos(n * 14);
