@@ -1,19 +1,21 @@
 {
-  "name": "bio-cv",
+  "name": "tdm-bio",
   "version": "0.0.0",
-  "description": "bio-cv\r ====================",
+  "description": "tdm-bio\r ====================",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "",
+      "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TdMichael/bio-cv.git"
+    "url": "git://github.com/michaeltd/tdm-bio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TdMichael/bio-cv/issues"
+    "url": "https://github.com/michaeltd/tdm-bio/issues"
   },
-  "homepage": "https://github.com/TdMichael/bio-cv"
+  "homepage": "https://github.com/michaeltd/tdm-bio"
 }
