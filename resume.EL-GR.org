@@ -1,7 +1,8 @@
 #+TITLE: Μιχάλης Τσουχλαράκης
 #+OPTIONS: toc:nil html-postamble:nil
 #+HTML_HEAD: <link rel='stylesheet' type='text/css' href='css/org.css' />
-#+HTML_HEAD_EXTRA: <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'/><script src='https://use.fontawesome.com/releases/v5.6.3/js/all.js' type='text/javascript'></script>
+#+HTML_HEAD_EXTRA: <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'/>
+#+HTML_HEAD_EXTRA: <script src='https://use.fontawesome.com/releases/v5.6.3/js/all.js' type='text/javascript'></script>
 #+MACRO: imglnk @@html:<a href="$1"><img src="$2"></a>@@
 
 -----
@@ -91,7 +92,6 @@
 #+END_CENTER
 
 #+BEGIN_COMMENT
-[[https://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][file:https://www.w3.org/Icons/valid-xhtml10]]
-[[https://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EL-GR.html][Validate]]
+[[https://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][https://www.w3.org/Icons/valid-xhtml10]
 {{{imglnk(https://validator.w3.org/check?uri=https://michaeltd.netlify.com/resume.EL-GR.html , https://www.w3.org/Icons/valid-xhtml10)}}}
 #+END_COMMENT
