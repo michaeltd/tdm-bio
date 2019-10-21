@@ -2,9 +2,7 @@
 
 bio in greek and english
 
-try [netlify](https://michaeltd.netlify.com/),
-
-of [github](https://michaeltd.github.io/tdm-bio/resume.html) for this repo live.
+try [netlify](https://michaeltd.netlify.com/) or [github](https://michaeltd.github.io/tdm-bio/) for this repo live.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1bfb02c1-555f-4300-b2d5-17331d66d855/deploy-status)](https://app.netlify.com/sites/michaeltd/deploys)
 
