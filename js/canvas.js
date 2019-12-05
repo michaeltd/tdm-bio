@@ -2,35 +2,37 @@
 
   var canvas, ctx, circ, nodes, mouse, SENSITIVITY, SIBLINGS_LIMIT, DENSITY, NODES_QTY, ANCHOR_LENGTH, MOUSE_RADIUS;
 
-  // how close next node must be to activate connection (in px)
-  // shorter distance == better connection (line width)
-  SENSITIVITY = 100;
-  // note that siblings limit is not 'accurate' as the node can actually have more connections than this value that's because the node accepts sibling nodes with no regard to their current connections this is acceptable because potential fix would not result in significant visual difference
-  // more siblings == bigger node
-  SIBLINGS_LIMIT = 10;
-  // default node margin
-  DENSITY = 100;
-  // total number of nodes used (incremented after creation)
-  NODES_QTY = 0;
-  // avoid nodes spreading
-  ANCHOR_LENGTH = 20;
-  // highlight radius
-  //MOUSE_RADIUS = 200;
-  MOUSE_RADIUS = 1000;
 
-  circ = 2 * Math.PI;
-  nodes = [];
+    // how close next node must be to activate connection (in px)
+    // shorter distance == better connection (line width)
+    SENSITIVITY = 50;
+    // note that siblings limit is not 'accurate' as the node can actually have more connections than this value that's because the node accepts sibling nodes with no regard to their current connections this is acceptable because potential fix would not result in significant visual difference
+    // more siblings == bigger node
+    SIBLINGS_LIMIT = 5;
+    // default node margin
+    DENSITY = 50;
+    // total number of nodes used (incremented after creation)
+    NODES_QTY = 0;
+    // avoid nodes spreading
+    ANCHOR_LENGTH = 10;
+    // highlight radius
+    //MOUSE_RADIUS = 200;
+    MOUSE_RADIUS = 500;
+    circ = 2 * Math.PI;
 
-  canvas = document.querySelector('canvas');
-  resizeWindow();
-  mouse = {
-    x: canvas.width / 2,
-    y: canvas.height / 2
-  };
-  ctx = canvas.getContext('2d');
+    nodes = [];
 
-  if (!ctx) {
-    alert("Ooops! Your browser does not support canvas :'(");
+    canvas = document.querySelector('canvas');
+    resizeWindow();
+    mouse = {
+        x: canvas.width / 2,
+        y: canvas.height / 2
+    };
+    ctx = canvas.getContext('2d');
+
+
+    if (!ctx) {
+        alert("Ooops! Your browser does not support canvas :'(");
   }
 
   function Node(x, y) {
@@ -47,7 +49,7 @@
   }
 
   Node.prototype.drawNode = function() {
-    var color = "rgba(0, 0, 0, " + this.brightness + ")";
+    var color = "rgba(125, 0, 255, " + this.brightness + ")";
     ctx.beginPath();
     ctx.arc(this.x, this.y, 2 * this.radius + 2 * this.siblings.length / SIBLINGS_LIMIT, 0, circ);
     ctx.fillStyle = color;
@@ -56,7 +58,7 @@
 
   Node.prototype.drawConnections = function() {
     for (var i = 0; i < this.siblings.length; i++) {
-      var color = "rgba(0, 0, 0, " + this.brightness + ")";
+      var color = "rgba(125, 0, 255, " + this.brightness + ")";
       ctx.beginPath();
       ctx.moveTo(this.x, this.y);
       ctx.lineTo(this.siblings[i].x, this.siblings[i].y);

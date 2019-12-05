@@ -7,7 +7,6 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  /* mix-blend-mode: exclusion; */
 }
 
 canvas {
@@ -17,12 +16,16 @@ canvas {
   width:100%;
   height:100%;
   z-index:-1;
+  background-color: 0;
 }
 
 .container-fluid {
   min-height: 90vh;
-  background-color: rgba(0,0,0,0);
-  color: lightgrey;
+  /* color: lightgrey; */
+}
+
+.page-header {
+  border: 0;
 }
 
 h1{
@@ -31,16 +34,14 @@ h1{
 }
 
 .row {
-  width: 35%;
+  /* width: 80%; */
   margin:0 auto;
 }
 
 .row, .col-xs-6, .list-group-item {
   background-color: rgba(0,0,0,0.5);
-}
-
-p{
-  color: white;
+  border: 0;
+  color: LightGrey;
 }
 
 footer {
