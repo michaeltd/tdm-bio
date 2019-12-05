@@ -1,12 +1,12 @@
 # tdm-bio
 
-bio in greek and english
+Personal hello-world page
 
 try [netlify](https://michaeltd.netlify.com/) or [github](https://michaeltd.github.io/tdm-bio/) for this repo live.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1bfb02c1-555f-4300-b2d5-17331d66d855/deploy-status)](https://app.netlify.com/sites/michaeltd/deploys)
 
-# Static Heroku wep site
+# Static Heroku website
 
   * With node https://github.com/Yankovsky/static-heroku-nodejs
 
