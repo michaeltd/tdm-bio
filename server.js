@@ -29,7 +29,7 @@ http.createServer(function(request, response) {
     }
 
     if (fs.statSync(filename).isDirectory())
-      filename += '/resume.html';
+      filename += '/index.html';
 
     fs.readFile(filename, "binary", function(err, file) {
       if(err) {
