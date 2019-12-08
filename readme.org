@@ -4,7 +4,7 @@
 Personal hello-world page
 
 * Try:
-[netlify](https://michaeltd.netlify.com/) ([![Netlify Status](https://api.netlify.com/api/v1/badges/1bfb02c1-555f-4300-b2d5-17331d66d855/deploy-status)](https://app.netlify.com/sites/michaeltd/deploys)) or [github](https://michaeltd.github.io/tdm-bio/) for this repo live.
+[[https://michaeltd.netlify.com/][Netlify]] [[https://app.netlify.com/sites/michaeltd/deploys][https://api.netlify.com/api/v1/badges/1bfb02c1-555f-4300-b2d5-17331d66d855/deploy-status]]  or [[https://michaeltd.github.io/tdm-bio/][github.io]] for this repo live.
 
 * Static Heroku website:
 With node https://github.com/Yankovsky/static-heroku-nodejs
