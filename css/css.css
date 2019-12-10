@@ -20,7 +20,7 @@ canvas {
 }
 
 .container-fluid {
-  min-height: 90vh;
+  min-height: 85vh;
   /* color: lightgrey; */
 }
 
@@ -28,18 +28,15 @@ canvas {
   border: 0;
 }
 
-h1{
+h3{
   background-color: rgba(0,0,0,0.5);
   color: LightGrey;
 }
 
-.row {
-  /* width: 80%; */
-  margin:0 auto;
-}
-
 .row, .col-xs-6, .list-group-item {
   background-color: rgba(0,0,0,0.5);
+  margin:0 auto;
+  padding: 1%;
   border: 0;
   color: LightGrey;
 }
