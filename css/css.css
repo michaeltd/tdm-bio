@@ -36,7 +36,7 @@ h3{
 .row, .col-xs-6, .list-group-item {
   background-color: rgba(0,0,0,0.5);
   margin:0 auto;
-  padding: 1%;
+  padding: .75%;
   border: 0;
   color: LightGrey;
 }
