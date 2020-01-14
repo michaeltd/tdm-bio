@@ -30,6 +30,7 @@ canvas {
 h3{
   background-color: rgba(0,0,0,0.5);
   color: LightGrey;
+  text-shadow: 5px 5px 10px #3333ff;
 }
 
 .row, .col-xs-6, .list-group-item {
