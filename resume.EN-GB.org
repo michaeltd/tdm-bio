@@ -84,6 +84,8 @@
 
 -----
 
+#+BEGIN_COMMENT
+
 #+BEGIN_CENTER
 #+HTML: <p>
 #+HTML:   <a href='https://orgmode.org/'>made with <img src='https://upload.wikimedia.org/wikipedia/commons/a/a6/Org-mode-unicorn.svg' alt='Made with org-mode' height='32'/></a>
@@ -91,7 +93,6 @@
 #+HTML: </p>
 #+END_CENTER
 
-#+BEGIN_COMMENT
 [[https://validator.w3.org/check?uri=https://michaeltd.herokuapp.com/resume.EN-GB.html][https://www.w3.org/Icons/valid-xhtml10]]
 {{{ imglnk( https://validator.w3.org/check?uri=https://michaeltd.netlify.com/resume.EN-GB.html , https://www.w3.org/Icons/valid-xhtml10 ) }}}
 #+END_COMMENT
