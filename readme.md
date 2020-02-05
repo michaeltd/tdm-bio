@@ -8,3 +8,6 @@ Personal hello-world page
 
   * Static Heroku website [with node](https://github.com/Yankovsky/static-heroku-nodejs)
 
+  * Static local site with python: [./pyhttpserv.bash](pyhttpserv.bash)
+
+  * Static local site with node: [node server.js](server.js)
