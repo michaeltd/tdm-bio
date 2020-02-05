@@ -10,4 +10,4 @@ Personal hello-world page
 
   * Static local site with python: [pyhttpserv.bash](pyhttpserv.bash)
 
-  * Static local site with node: [npm start](server.js)
+  * Static local site with node: [node server.js](server.js)
