@@ -12,6 +12,6 @@ if [[ "${pv[1]}" =~ ^3.* ]]; then
 elif [[ "${pv[1]}" =~ ^2.* ]]; then
     python -m SimpleHTTPServer 8080
 else
-    echo "Fatal: No suitable python version found!"
+    echo "Fatal: No suitable python version found!" >&2
     exit 1
 fi
