@@ -5,6 +5,7 @@
 # python3 -m http.server 8080 # Start a simple webserver using python3 on external port 8080 and use the current directory you are in as the document root. Be careful with what you expose to the world. Use --bind 127.0.0.1 if you want to make it local only.
 # Or the old days with python 2: python -m SimpleHTTPServer 8080
 
+# https://mastodon.technology/web/statuses/104227605689658556
 declare -r pv="$(python --version 2>&1)"
 
 if [[ "${pv}" =~ ^Python\ 3. ]]; then
