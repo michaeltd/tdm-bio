@@ -9,7 +9,7 @@
 !js/*
 !org_publish.el
 !package.json
-!public.html
+!public_key.html
 !pyhttpserv.bash
 !readme.md
 !readme.org
@@ -25,3 +25,4 @@
 !server.js
 !js/script.js
 !css/style.css
+!bitcoin.html
