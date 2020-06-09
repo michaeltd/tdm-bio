@@ -10,6 +10,7 @@
 !org_publish.el
 !package.json
 !public_key.html
+!public.html
 !pyhttpserv.bash
 !readme.md
 !readme.org
